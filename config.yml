@@ -1,0 +1,49 @@
+Scoreboard_title: '&6&lExample &7%straight_line% &fMap 1'
+Timers:
+  protection: 'Invincibility'
+  teleport: 'Home'
+  home: 'Home'
+  archer: 'Archer Tag'
+  enderpearl: 'Enderpearl'
+  logout: 'Logout'
+  notch: 'Notch Apple'
+  warmup: 'Class Warmup'
+  spawntag: 'Combat'
+Combat_building: true
+Kitmap:
+  Sharpness: 1
+  Protection: 1
+Kit-Map: true
+PRIMAIRY-COLOR: '&2'
+SECONDAIRY-COLOR: '&7'
+THIRD-COLOR: '&e'
+SERVER-NAME: 'Vorcide'
+DEATHBAN-MAXTIME: 3
+MAX-FACTION: 10
+MAX-ALLY: 1
+MAP-BORDER: 3000
+CURRENT-MAP: 1
+MAP-KIT: 'S1 P1'
+WARZONE-RADIUS: 800
+Help:
+- '&8&m------------------------------------'
+- '&6&lconfig.yml'
+- '&8&m------------------------------------'
+Teamspeak:
+- '&6&lTeamspeak IP: ts.example.us'
+teamspeak-frozen: ts.example.us
+store: 'store.example.us'
+top-rank: 'Vorcide'
+website: 'www.example.us'
+Coords:
+- '&8&m----------------------------------------'
+- '&6&lconfig.yml'
+- '&8&m----------------------------------------'
+spawn:
+  world: world
+  x: 0.538049846829157
+  y: 69.0
+  z: 0.6617853658512408
+  yaw: 0.78689575
+  pitch: 11.715501
+warp-delay-millis: 0

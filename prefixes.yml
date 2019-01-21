@@ -1,0 +1,8 @@
+menu_size: 45
+prefixes_amount: 1
+inventory_name: '&eSelect your Prefix'
+prefixes:
+  1:
+    name: 'yolo'
+    display_name: '&8[&6&l#YOLO&8]'
+    

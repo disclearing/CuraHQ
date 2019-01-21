@@ -1,0 +1,191 @@
+name: Core
+version: SNAPSHOT-1.0
+author: Cura Development | NV6
+main: club.curahq.core.Core
+softdepend:
+- ProtocolLib
+- Vault
+commands:
+  prefix:
+  reply:
+    aliases:
+    - r
+  broadcast:
+    aliases:
+    - bc
+  message:
+    aliases:
+    - tell
+    - m
+    - msg
+  togglemessage:
+    aliases:
+    - togglepm
+  teleport:
+    aliases:
+    - tp
+  vanish:
+    aliases:
+    - v
+  stats: null
+  top: null
+  ignore: null
+  reset: null
+  copyinv: null
+  slowstop: null
+  focus: null
+  fsay: null
+  fight: null
+  lff: null
+  tl: null
+  whois: null
+  drop: null
+  messagespy: null
+  staffmode:
+    aliases:
+    - mod
+    - h
+    - staff
+  feed:
+    aliases:
+    - eat
+  spawndragon:
+    description: Spawns an Ender-Dragon
+  servertime:
+    description: Checks the date and time of server.
+  note: null
+  heal: null
+  skull: null
+  sudo: null
+  enchant: null
+  kit: null
+  playtime:
+    aliases:
+    - pt
+  endportal: null
+  setspawn: null
+  world: null
+  kill: null
+  clear:
+    aliases:
+    - ci
+  ping: null
+  togglesidebar:
+     aliases:
+     - tsb
+     - togglescoreboard
+     - togglesb
+     - tscoreboard
+  more: null
+  warp: null
+  staffchat:
+    aliases:
+    - sc
+  gamemode:
+    aliases:
+    - gm
+  coords: null
+  teleportall:
+    aliases:
+    - tpall
+  teleporthere:
+    aliases:
+    - tphere
+    - s
+  god: null
+  set: null
+  lag: null
+  invsee: null
+  rename: null
+  clearchat:
+    aliases:
+    - cc
+  fly: null
+  panic: null
+  focus: null
+  fix:
+    aliases:
+    - repair
+  give: null
+  item:
+    aliases:
+    - i
+  random:
+    description: Teleports or gets a random player.
+  tpcoords: null
+  sotw:
+    description: Starts a 30 minute SOTW timer.
+  refund:
+    description: Refunds an inventory.
+  crowbar:
+    description: Management of crowbar tools.
+  freeze:
+    aliases:
+    - ss
+  medic: null
+  
+  gmc:
+    description: Management of crowbar tools.
+  gms:
+    description: Management of crowbar tools.
+  staffrevive: null
+  conquest:
+    description: Command used to handle Conquest events.
+  economy:
+    aliases:
+    - bal
+    - balance
+    - money
+    - eco
+    description: Command used to modify the economy.
+  eotw:
+    description: Sets if the server is in End of the World mode.
+  event:
+    aliases:
+    - e
+    - game
+    - events
+    description: Command used to manage minigame events.
+  faction:
+    aliases:
+    - f
+    - fac
+    description: Faction related commands.
+  gopple:
+    description: Command to check remaining OP apple cooldown time.
+    aliases:
+    - goppletimer
+    - goppletime
+  koth:
+    description: Make or delete KotH arenas.
+  lives:
+    description: Management of lives or deathbans.
+  key:
+    description: Management of lives or deathbans.
+  logout:
+    aliases:
+    - disconnect
+    description: Command to safely logout without an NPC spawning.
+  ores:
+    description: Obtain keys to unlock awesome loot.
+  pay:
+    description: Allow players to pay money.
+  pvptimer:
+    aliases:
+    - pvp
+    description: to enable or disable pvp timer protection.
+  setborder:
+    aliases:
+    - setbordersize
+    description: Sets the border size of an Environment.
+  teamspeak:
+    aliases:
+    - ts
+    description: Show's player the ip for the teamspeak.
+  spawn:
+    description: Teleport to the server spawn.
+  help: null
+  list: null
+  spawner: null
+  timer:
+    description: Command to manage timers.
