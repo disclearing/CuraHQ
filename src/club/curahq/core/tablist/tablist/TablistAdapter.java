@@ -27,7 +27,7 @@ public class TablistAdapter implements TablistEntrySupplier {
  
 	
 	//=================================//
-	//  Thank you Vertises and pcrunn  //
+	//  Thank you Vertises and pcrunn - fricc off i didnt help i just had it on this shitty workspace that apifile leaked  //
 	//=================================//
 	
     public static final Comparator<PlayerFaction> FACTION_COMPARATOR = (faction1, faction2) -> {
